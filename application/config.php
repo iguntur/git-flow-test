@@ -1,3 +1,7 @@
 <?php
 
-$config = [];
+$config = [
+	'server' => [
+		'port' => '8080'
+	]
+];
